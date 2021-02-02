@@ -6,7 +6,3 @@ export default class MyAsync extends React.Component {
     return <div>hi</div>;
   }
 }
-
-// const MyAsync = () => <div>hi</div>;
-
-// export default MyAsync;
